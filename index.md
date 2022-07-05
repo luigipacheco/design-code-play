@@ -3,9 +3,9 @@ layout: index
 published: true
 ---
 
-## Cardboard Circuits
+## Design, Code, Play
 
-Cardboard Circuits is an open online course to learn electronics, robotics and programming. It is designed to minimize the amount of materials you need to start tinkering around with technology, allowing you to create amazing projects using cardboard, glue, tape and your imagination.
+Design Code Play is an open online course to learn video game programming and design. It is designed to minimize the amount of materials you need to start tinkering around with technology, allowing you to create amazing projects using cardboard, glue, tape and your imagination.
 
 ## Course Philosophy
 

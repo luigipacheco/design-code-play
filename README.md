@@ -1,4 +1,4 @@
-# Cardboard Circuits
+# Design, Code, Play
 
 Invent with cardboard
 
@@ -16,6 +16,7 @@ Please read  for details on our code of conduct, and the process for submitting 
 ## Authors
 
 * **Luis Pacheco** - *Curricular design and author*
+* **Paco Mireles**  - 
 
 See also the list of [contributors](https://github.com/luigipacheco/cardboard-circuits/graphs/contributors) who participated in this project.
 

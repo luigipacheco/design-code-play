@@ -22,6 +22,6 @@ See also the list of [contributors](https://github.com/luigipacheco/cardboard-ci
 
 ## License
 
-This project is licensed under the CC-BY-NC-SA International 4.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the CC-BY-NC-SA International 4.0 License - MakerCademy by Neobrutal Studio see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments

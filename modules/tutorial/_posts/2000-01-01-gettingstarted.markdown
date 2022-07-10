@@ -1,14 +1,14 @@
 ---
-title: 01 Getting Started with Circuit Playground
+title: 01 Micro Stuio UI
 published: true
 ---
-# Getting Started with Circuit Playground
+# Getting Started with Micro Studio
 
 ## Watch the video:
 
 <iframe width="1127" height="634" src="https://www.youtube.com/embed/cKwKSDApl_8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## The Adafruit Circuit Playground Bluefruit and Express
+## About the UI
 
 With the goal to pack as many sensors as possible, in an alligator clip friendly interface the Bluefruit and the Circuit Playground express make electronics programming simple and accessible, perfect for tinkering and making with Cardboard.
 

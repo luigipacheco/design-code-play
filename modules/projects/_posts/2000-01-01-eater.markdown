@@ -1,0 +1,56 @@
+---
+title: Eater Game
+published: true
+---
+
+# Project 01 Eater
+
+## Overview
+In our first project will code a game that lets us move arround a charater to "eat" food in the screen.
+
+First lets define some key aspects of our project by asking the following questions:
+
+- How do I put something in the screen?
+- How do I move it arround?
+- How do I make something disappear when my charater "touches" it?
+- How do I count how much food the character has ate?
+
+## Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/baeSkAv8sg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Activities
+
+- Draw your own character
+- Draw your own "food"
+- Draw your own background
+
+
+## Reflect & share
+
+ - What did I discovered by doing this project?
+ - What did I wish I knew before this project?
+ - What was the most difficult part and how I overcame it?
+ - What do I love from this project?
+ - What do I want to improve in this project?
+
+Remember to "publish" your project and share it with us in Discord.
+
+## Take your project to the next level
+
+Think about an extra added value for your game:
+  - make your eater "Grow" when it eats something.
+  - add different "food" types.
+  - Make "poison" items.
+  - Add an extra eater to play with a friend?
+
+
+## Further Learning
+
+ - Check out microStudio tutorials : https://microstudio.dev/tutorials/
+ - Check out microStudio documentation :https://microstudio.dev/documentation/
+
+## Helpful links
+
+- Cool free assets for your game https://www.kenney.nl/assets
+

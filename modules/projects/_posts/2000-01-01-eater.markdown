@@ -26,6 +26,7 @@ First lets define some key aspects of our project by asking the following questi
 - Draw your own background
 
 
+
 ## Reflect & share
 
  - What did I discovered by doing this project?
@@ -43,6 +44,7 @@ Think about an extra added value for your game:
   - add different "food" types.
   - Make "poison" items.
   - Add an extra eater to play with a friend?
+  - Animate your sprites
 
 
 ## Further Learning

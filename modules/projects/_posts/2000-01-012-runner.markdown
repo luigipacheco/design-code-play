@@ -1,0 +1,59 @@
+---
+title: Runner Game
+published: true
+---
+
+# Project 02 Runner!
+
+## Overview
+In our second project will code a game that lets us run and jump while avoiding obstacles that randomly spawn.
+
+First lets define some key aspects of our project by asking the following questions:
+
+- How do I make my character jump?
+- How do I make my character move forward?
+- How do I keep track of the score?
+- How do I reset the game?
+
+## Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y1aoBTP-iuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Activities
+
+- Draw your own character
+- Draw your own "obstacle"
+- Draw your own "floor"
+- Add sounds for jumping and colliding with an obstacle. 
+
+
+
+## Reflect & share
+
+ - What did I discovered by doing this project?
+ - What did I wish I knew before this project?
+ - What was the most difficult part and how I overcame it?
+ - What do I love from this project?
+ - What do I want to improve in this project?
+
+Remember to "publish" your project and share it with us in Discord.
+
+## Take your project to the next level
+
+Think about an extra added value for your game:
+  - make your runner "Jump" higher when you press a key twice.
+  - add different "obstacle" types.
+  - Collect items.
+  - Add an extra runner to play with a friend
+  - Animate your sprites
+
+
+## Further Learning
+
+ - Check out microStudio tutorials : https://microstudio.dev/tutorials/
+ - Check out microStudio documentation :https://microstudio.dev/documentation/
+
+## Helpful links
+
+- Cool free assets for your game https://www.kenney.nl/assets
+
